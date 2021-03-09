@@ -1,5 +1,17 @@
+<<<<<<< HEAD
 .foo {
     color: black;
     background-color: chocolate;
     margin: 10px;
+}
+=======
+*{
+    box-sizing: border-box;
+}
+
+.foo {
+    text-align: center;
+    border: 1px solid black;
+    display: block;
+>>>>>>> m1
 }
